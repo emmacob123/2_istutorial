@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Dash</title>
+    <title>Dashboard</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/dashboard/">
 
@@ -106,14 +106,14 @@
               Programme Enroll
             </a>
             <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="programme.php">CSS</a></li>
-            <li><a class="dropdown-item" href="#">HTML</a></li>
-            <li><a class="dropdown-item" href="#">PHP</a></li>
-            <li><a class="dropdown-item" href="#">JAVA</a></li>
-            <li><a class="dropdown-item" href="#">JAVASCRIPT</a></li>
-            <li><a class="dropdown-item" href="#">PYTHON</a></li>
-            <li><a class="dropdown-item" href="#">JQUERY</a></li>
-            <li><a class="dropdown-item" href="#">BOOTSTRAP</a></li>
+            <li><a class="dropdown-item" href="css_course.php">CSS</a></li>
+            <li><a class="dropdown-item" href="html_course.php">HTML</a></li>
+            <li><a class="dropdown-item" href="php_course.php">PHP</a></li>
+            <li><a class="dropdown-item" href="java_course.php">JAVA</a></li>
+            <li><a class="dropdown-item" href="javascript_course.php">JAVASCRIPT</a></li>
+            <li><a class="dropdown-item" href="python_course.php">PYTHON</a></li>
+            <li><a class="dropdown-item" href="jquery_course.php">JQUERY</a></li>
+            <li><a class="dropdown-item" href="bootstrap_course.php">BOOTSTRAP</a></li>
     </ul>
           </li> 
           <li class="nav-item">

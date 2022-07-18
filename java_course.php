@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Programme Enroll</title>
+    <title>Java Course</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/dashboard/">
 
@@ -105,14 +105,14 @@
               Programme Enroll
             </a>
             <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="programme.php">CSS</a></li>
-            <li><a class="dropdown-item" href="#">HTML</a></li>
-            <li><a class="dropdown-item" href="#">PHP</a></li>
-            <li><a class="dropdown-item" href="#">JAVA</a></li>
-            <li><a class="dropdown-item" href="#">JAVASCRIPT</a></li>
-            <li><a class="dropdown-item" href="#">PYTHON</a></li>
-            <li><a class="dropdown-item" href="#">JQUERY</a></li>
-            <li><a class="dropdown-item" href="#">BOOTSTRAP</a></li>
+            <li><a class="dropdown-item" href="css_course.php">CSS</a></li>
+            <li><a class="dropdown-item" href="html_course.php">HTML</a></li>
+            <li><a class="dropdown-item" href="php_course.php">PHP</a></li>
+            <li><a class="dropdown-item" href="java_course.php">JAVA</a></li>
+            <li><a class="dropdown-item" href="javascript_course.php">JAVASCRIPT</a></li>
+            <li><a class="dropdown-item" href="python_course.php">PYTHON</a></li>
+            <li><a class="dropdown-item" href="jquery_course.php">JQUERY</a></li>
+            <li><a class="dropdown-item" href="bootstrap_course.php">BOOTSTRAP</a></li>
     </ul>
           </li> 
           <li class="nav-item">
@@ -145,7 +145,7 @@
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Programme Enroll</h1>
+        <h1 class="h2">Java Course</h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group me-2">
             <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
@@ -164,11 +164,8 @@
           <thead>
           <tr>
             <th scope="col">S/N</th>
-            <th scope="col">Surname</th>
-            <th scope="col">Other names</th>
-            <th scope="col">Course</th>
-            <th scope="col">Applying Date</th>
-            <th scope="col">Expiring Date</th>
+            <th scope="col">Course name</th>
+            <th scope="col">Course Package</th>
             <th scope="col">Action</th>
 
 
@@ -178,52 +175,34 @@
           <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Monday</td>
-            <td>PHP</td>
-            <td>12/07/2021</td>
-            <td>12/07/2022</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Remove</td>
-
-
-
+            <td>Java</td>
+            <td>1 Year</td>
+            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Jackson</td>
-            <td>CSS</td>
-            <td>10/06/2022</td>
-            <td>10/06/2023</td>
-            <td class="btn btn bg-primary m-1">Remove</td>
+            <td>Java</td>
+            <td>1 Month</td>
+            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
 
 
 
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Larry</td>
-            <td>John</td>
-            <td>JAVA</td>
-            <td>30/06/2022</td>
-            <td>30/07/2022</td>
-            <td class="btn btn bg-primary m-1">Remove</td>
-
-
-
-
+            <td>Java</td>
+            <td>2 Month</td>
+            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
-            <th scope="row">3</th>
-            <td> Christopher</td>
-            <td>Micheal</td>
-            <td>JAVASCRIPT</td>
-            <td>10/04/2022</td>
-            <td>10/08/2022</td>
-            <td class="btn btn bg-primary m-1">Remove</td>
-
-
-
+            <th scope="row">4</th>
+            <td>Java</td>
+            <td>4 Mont</td>
+            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
 
           </tr>
           
