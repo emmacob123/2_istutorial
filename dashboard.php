@@ -82,7 +82,7 @@
   </button>
   <input class="form-control form-control-shadow w-50 rounded-3 border-1" type="text" placeholder="Search" aria-label="Search">
   <div class="navbar-nav">
-    <div class="nav-item text-nowrap">
+    <div class="nav-item text-nowrap bg-primary">
       <a class="nav-link px-3" href="#">Sign out</a>
     </div>
   </div>
@@ -106,7 +106,7 @@
               Programme Enroll
             </a>
             <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="#">CSS</a></li>
+            <li><a class="dropdown-item" href="programme.php">CSS</a></li>
             <li><a class="dropdown-item" href="#">HTML</a></li>
             <li><a class="dropdown-item" href="#">PHP</a></li>
             <li><a class="dropdown-item" href="#">JAVA</a></li>
@@ -117,7 +117,7 @@
     </ul>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="programme.php">
               <span data-feather="shopping-cart" class="align-text-bottom"></span>
               Payment
             </a>

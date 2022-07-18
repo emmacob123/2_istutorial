@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Programme Enroll</title>
+    <title>Manage Students</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/dashboard/">
 
@@ -94,31 +94,21 @@
       <div class="position-sticky pt-3">
         <ul class="nav flex-column">
           <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="dashboard.php">
+          <a class="nav-link active" aria-current="page" href="manage_students.php">
               <span data-feather="home" class="align-text-bottom"></span>
-              Dashboard
+              Manage Students
             </a>
           </li>
-          <li class="nav-item dropdown dropend">
-            <a class="nav-link dropdown-toggle" href="dashboard.php" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">
+          <li class="nav-item">
+            <a class="nav-link" href="#">
               <span data-feather="file" class="align-text-bottom"></span>
-              Programme Enroll
+              Manage Users
             </a>
-            <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="programme.php">CSS</a></li>
-            <li><a class="dropdown-item" href="#">HTML</a></li>
-            <li><a class="dropdown-item" href="#">PHP</a></li>
-            <li><a class="dropdown-item" href="#">JAVA</a></li>
-            <li><a class="dropdown-item" href="#">JAVASCRIPT</a></li>
-            <li><a class="dropdown-item" href="#">PYTHON</a></li>
-            <li><a class="dropdown-item" href="#">JQUERY</a></li>
-            <li><a class="dropdown-item" href="#">BOOTSTRAP</a></li>
-    </ul>
-          </li> 
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="#">
               <span data-feather="shopping-cart" class="align-text-bottom"></span>
-              Payment
+              Manage Orders
             </a>
           </li>
           <li class="nav-item">
@@ -127,25 +117,13 @@
               Profile
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-              <span data-feather="bar-chart-2" class="align-text-bottom"></span>
-              Result
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-              <span data-feather="layers" class="align-text-bottom"></span>
-              Help
-            </a>
-          </li>
         </ul>
       </div>
     </nav>
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Programme Enroll</h1>
+        <h1 class="h2">Manage Students</h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group me-2">
             <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
@@ -367,9 +345,6 @@
 
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
-          <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
       <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
   </body>
