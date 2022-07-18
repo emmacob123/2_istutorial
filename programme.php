@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Dashboard</title>
+    <title>Programme Enroll</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/dashboard/">
 
@@ -100,7 +100,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="programme.php">
+            <a class="nav-link" href="#">
               <span data-feather="file" class="align-text-bottom"></span>
               Programme Enroll
             </a>
@@ -135,7 +135,7 @@
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2">Programme Enroll</h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group me-2">
             <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
