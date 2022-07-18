@@ -144,6 +144,8 @@
             <th scope="col">S/N</th>
             <th scope="col">Surname</th>
             <th scope="col">Other names</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Email</th>
             <th scope="col">Course</th>
             <th scope="col">Applying Date</th>
             <th scope="col">Expiring Date</th>
@@ -158,6 +160,8 @@
             <th scope="row">1</th>
             <td>Mark</td>
             <td>Monday</td>
+            <td>09048572611</td>
+            <td>mark@gmail.com</td>
             <td>PHP</td>
             <td>12/07/2021</td>
             <td>12/07/2022</td>
@@ -171,6 +175,8 @@
             <th scope="row">2</th>
             <td>Jacob</td>
             <td>Jackson</td>
+            <td>08048576233</td>
+            <td>jj@gma.com</td>
             <td>CSS</td>
             <td>10/06/2022</td>
             <td>10/06/2023</td>
@@ -184,6 +190,8 @@
             <th scope="row">3</th>
             <td>Larry</td>
             <td>John</td>
+            <td>09127345671</td>
+            <td>larry@gmail.com</td>
             <td>JAVA</td>
             <td>30/06/2022</td>
             <td>30/07/2022</td>
@@ -198,6 +206,8 @@
             <th scope="row">4</th>
             <td> Christopher</td>
             <td>Micheal</td>
+            <td>07052292579</td>
+            <td>christopher@gmail.com</td>
             <td>JAVASCRIPT</td>
             <td>10/04/2022</td>
             <td>10/08/2022</td>

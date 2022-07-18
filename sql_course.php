@@ -112,7 +112,7 @@
             <li><a class="dropdown-item" href="javascript_course.php">JAVASCRIPT</a></li>
             <li><a class="dropdown-item" href="python_course.php">PYTHON</a></li>
             <li><a class="dropdown-item" href="jquery_course.php">JQUERY</a></li>
-            <li><a class="dropdown-item" href="bootstrap_course.php">BOOTSTRAP</a></li>
+            <li><a class="dropdown-item" href="sql_course.php">SQL</a></li>
     </ul>
           </li> 
           <li class="nav-item">
@@ -145,7 +145,7 @@
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Bootstrap Course</h1>
+        <h1 class="h2">SQL Course</h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <div class="btn-group me-2">
             <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
@@ -175,14 +175,14 @@
           <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Bootstrap</td>
+            <td>SQL</td>
             <td>1 Year</td>
             <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Bootstrap</td>
+            <td>SQL</td>
             <td>1 Month</td>
             <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
@@ -192,14 +192,14 @@
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Bootstrap</td>
+            <td>SQL</td>
             <td>2 Month</td>
             <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Bootstrap</td>
+            <td>SQL</td>
             <td>4 Mont</td>
             <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>

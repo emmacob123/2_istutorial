@@ -113,7 +113,7 @@
             <li><a class="dropdown-item" href="javascript_course.php">JAVASCRIPT</a></li>
             <li><a class="dropdown-item" href="python_course.php">PYTHON</a></li>
             <li><a class="dropdown-item" href="jquery_course.php">JQUERY</a></li>
-            <li><a class="dropdown-item" href="bootstrap_course.php">BOOTSTRAP</a></li>
+            <li><a class="dropdown-item" href="sql_course.php">SQL</a></li>
     </ul>
           </li> 
           <li class="nav-item">
