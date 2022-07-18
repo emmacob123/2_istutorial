@@ -96,15 +96,26 @@
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="dashboard.php">
               <span data-feather="home" class="align-text-bottom"></span>
-              Home
+              Dashboard
             </a>
           </li>
-          <li class="nav-item dropdown dropstart dropdown-toggle" data-bs-toggle="dropdown">
-            <a class="nav-link" href="programme.php">
+
+           <li class="nav-item dropdown dropend">
+            <a class="nav-link dropdown-toggle" href="dashboard.php" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">
               <span data-feather="file" class="align-text-bottom"></span>
               Programme Enroll
             </a>
-          </li>
+            <ul class="dropdown-menu" aria-labelledby="dropdown01">
+            <li><a class="dropdown-item" href="#">CSS</a></li>
+            <li><a class="dropdown-item" href="#">HTML</a></li>
+            <li><a class="dropdown-item" href="#">PHP</a></li>
+            <li><a class="dropdown-item" href="#">JAVA</a></li>
+            <li><a class="dropdown-item" href="#">JAVASCRIPT</a></li>
+            <li><a class="dropdown-item" href="#">PYTHON</a></li>
+            <li><a class="dropdown-item" href="#">JQUERY</a></li>
+            <li><a class="dropdown-item" href="#">BOOTSTRAP</a></li>
+    </ul>
+          </li> 
           <li class="nav-item">
             <a class="nav-link" href="#">
               <span data-feather="shopping-cart" class="align-text-bottom"></span>
@@ -287,5 +298,7 @@
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
       <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>

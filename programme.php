@@ -96,7 +96,7 @@
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="dashboard.php">
               <span data-feather="home" class="align-text-bottom"></span>
-              Home
+              Dashboard
             </a>
           </li>
           <li class="nav-item">
