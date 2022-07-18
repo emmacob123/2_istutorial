@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Dashboard</title>
+    <title>Dash</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/dashboard/">
 
@@ -99,7 +99,7 @@
               Home
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item dropdown dropstart dropdown-toggle" data-bs-toggle="dropdown">
             <a class="nav-link" href="programme.php">
               <span data-feather="file" class="align-text-bottom"></span>
               Programme Enroll
