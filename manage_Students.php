@@ -165,7 +165,7 @@
             <td>PHP</td>
             <td>12/07/2021</td>
             <td>12/07/2022</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Activate</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Activate</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
 
 
@@ -180,7 +180,7 @@
             <td>CSS</td>
             <td>10/06/2022</td>
             <td>10/06/2023</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Activate</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Activate</td>
             <td class="btn btn bg-danger m-1">Remove</td>
 
 
@@ -195,7 +195,7 @@
             <td>JAVA</td>
             <td>30/06/2022</td>
             <td>30/07/2022</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Activate</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Activate</td>
             <td class="btn btn bg-danger m-1">Remove</td>
 
 
@@ -211,7 +211,7 @@
             <td>JAVASCRIPT</td>
             <td>10/04/2022</td>
             <td>10/08/2022</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Activate</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Activate</td>
             <td class="btn btn bg-danger m-1">Remove</td>
 
 

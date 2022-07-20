@@ -177,14 +177,14 @@
             <th scope="row">1</th>
             <td>HTML</td>
             <td>1 Year</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
             <th scope="row">2</th>
             <td>HTML</td>
             <td>1 Month</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
 
 
@@ -194,14 +194,14 @@
             <th scope="row">3</th>
             <td>HTML</td>
             <td>2 Month</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
           </tr>
           <tr>
             <th scope="row">4</th>
             <td>HTML</td>
             <td>4 Mont</td>
-            <td class="btn btn bg-primary m-1" data-bs-dismiss="alert">Add</td>
+            <td class="btn btn bg-primary m-1 text-white" data-bs-dismiss="alert">Add</td>
             <td class="btn btn bg-danger m-1" data-bs-dismiss="alert">Remove</td>
 
           </tr>
